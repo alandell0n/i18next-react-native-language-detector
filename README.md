@@ -10,6 +10,12 @@ Install the package using the following command:
 yarn add @alandell0n/i18next-react-native-language-detector
 ```
 
+or 
+
+```
+npm install @alandell0n/i18next-react-native-language-detector
+```
+
 Example of usage:
 
 ```ts
