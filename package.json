@@ -1,6 +1,6 @@
 {
   "name": "@alandell0n/i18next-react-native-language-detector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "repository": "git@github.com:alandell0n/i18next-react-native-language-detector.git",
   "type": "module",
